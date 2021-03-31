@@ -25,7 +25,7 @@ This project is licensed under the MIT - see the MIT.md file for details
 ### Terminal Screen Shot
 <img src="assets/screenshot.png" alt="snapshot" />
 ### Terminal Screen Shot
-<img src="assets/screenshot.png" alt="snapshot" />
+<img src="assets/screenshot2.png" alt="snapshot" />
 ### Author
 
 **Keya Bernhardt**
