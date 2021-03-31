@@ -122,7 +122,7 @@ ${tests}
 \nLocation:${gitlocation}
 \nGitHub: ${gitUrl}
 `)
-var writeResult = fs.writeFileSync(path.join(__dirname, '../GoodReadMeGenerator', 'readMe.md'), result )
+var writeResult = fs.writeFileSync(path.join(__dirname, '../ProfessionalREADME', 'readMe.md'), result )
 console.log("file generated....")
     }
 main();

@@ -1,23 +1,23 @@
 {
-    "name": "goodreadmegenerator",
-    "version": "1.0.0",
-    "description": "to create a read me generator",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Ofarrell23/GoodReadMeGenerator.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Ofarrell23/GoodReadMeGenerator/issues"
-    },
-    "homepage": "https://github.com/Ofarrell23/GoodReadMeGenerator#readme",
-    "dependencies": {
-      "axios": "^0.19.2",
-      "inquirer": "^7.0.4"
-    }
+  "name": "professionalreadmegenerator",
+  "version": "1.0.0",
+  "description": "to create a read me generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ofarrell23/professional-README-Generator"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ofarrell23/professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Ofarrell23/professional-README-Generator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3"
   }
+}

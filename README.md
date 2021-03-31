@@ -23,9 +23,9 @@ user runs node index.js and the application starts
 ## License 
 This project is licensed under the MIT - see the MIT.md file for details
 ### Terminal Screen Shot
-<img src="" alt="snapshot" />
+<img src="assets/screenshot.png" alt="snapshot" />
 ### Terminal Screen Shot
-<img src="" alt="snapshot" />
+<img src="assets/screenshot.png" alt="snapshot" />
 ### Author
 
 **Keya Bernhardt**
